@@ -1,2 +1,1 @@
-# sloanyliu.github.io
-Sloan's Website
+# Welcome one and all
